@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "description": "web",
+  "main": "app.js",
+  "author": {
+    "name": "admin",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "bytes": "*",
+    "express": "^4.13.3",
+    "gs": "*",
+    "jade": "*",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1",
+    "serve-favicon": "^2.3.0",
+    "stylus": "*"
+  }
+}
